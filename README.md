@@ -1,9 +1,9 @@
-# 🚧 Under construction!
+# Under construction!
 
 I'm SpaceiFix — welcome to my GitHub page!  
 Here you might (or might not) find a couple of my projects, ranging from experiments to something more interesting.
 
-## 🛠️ A bit about me
+## A bit about me
 
 - I know a bit of **C**, **Python**, and **Assembly**
 - 15 years old
@@ -13,7 +13,7 @@ Here you might (or might not) find a couple of my projects, ranging from experim
 - Languages: **Russian**, **Ukrainian**, and a bit of **English**
 - Discord: **spaceif**
 - Steam: [SpaceIf](https://steamcommunity.com/profiles/76561199383085318/) (a bit cheap :sweat_smile: )
-## 📦 Projects
+## Projects
 
 - [RodipSS/RodipCore](https://github.com/RodipSS/RodipCore)
 
