@@ -6,7 +6,7 @@ Here you might (or might not) find a couple of my projects, ranging from experim
 ## A bit about me
 
 - I know a bit of **C**, **Python**, and **Assembly**
-- 15 years old
+- 16 years old
 - I’ve dabbled in **Blender** for some 3D work
 - i use **arch** btw ( ͡° ͜ʖ ͡° )
 - I love impossible projects that will take half my life to complete
