@@ -10,8 +10,8 @@ Here you might (or might not) find a couple of my projects, ranging from experim
 - I’ve dabbled in **Blender** for some 3D work
 - i use **arch** btw ( ͡° ͜ʖ ͡° )
 - I love impossible projects that will take half my life to complete
-- Languages: **Russian**, **Ukrainian**, and a bit of **English**
-- Discord: **spaceif**
+- Languages: **Russian**, **Ukrainian**, and a bit of **English** (trying to learn Korean)
+- Discord: **pool_for_money**
 - Steam: [SpaceIf](https://steamcommunity.com/profiles/76561199383085318/) (a bit cheap :sweat_smile: )
 ## Projects
 
